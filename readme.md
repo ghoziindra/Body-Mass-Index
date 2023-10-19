@@ -1,4 +1,5 @@
 Simple BMI (body mass index) Apss.
+This programs run on local terminal
 
 Dan dibawah ini merupakan index tabel massa tubuh anda:
 
